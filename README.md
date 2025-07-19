@@ -1,0 +1,1 @@
+I have greatly designed the project via the CSS components : CSS grid, flexbox. While it has a scrolling effect when pressing the button, it is made using javascript.Another thing to mention is the import of google maps.
